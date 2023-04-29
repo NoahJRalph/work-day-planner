@@ -16,7 +16,7 @@ My very own simple Day Planner. Made using the criteria from Module 5 of my edX 
 
 ## Deployment
 
-![Here.]https://noahjralph.github.io/work-day-planner/
+[Here.](https://noahjralph.github.io/work-day-planner/)
 
 ## Usage
 
