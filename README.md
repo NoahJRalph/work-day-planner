@@ -1,4 +1,4 @@
-# nodejs-readme-generator
+# work-day-planner
 
 ![This project's protection license.](https://img.shields.io/badge/license-MIT-blue)
 
